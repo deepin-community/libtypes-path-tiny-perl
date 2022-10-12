@@ -1,0 +1,34 @@
+libtypes-path-tiny-perl (0.006-1) unstable; urgency=medium
+
+  [ intrigeri ]
+  * Improve long description.
+
+  [ gregor herrmann ]
+  * Install CONTRIBUTING file.
+
+  [ Salvatore Bonaccorso ]
+  * Update Vcs-Browser URL to cgit web frontend
+  * debian/control: Use HTTPS transport protocol for Vcs-Git URI
+
+  [ gregor herrmann ]
+  * debian/copyright: change Copyright-Format 1.0 URL to HTTPS.
+  * Remove Lars Dɪᴇᴄᴋᴏᴡ from Uploaders. Thanks for your work!
+
+  [ Salvatore Bonaccorso ]
+  * Update Vcs-* headers for switch to salsa.debian.org
+
+  [ gregor herrmann ]
+  * Add debian/upstream/metadata.
+  * Import upstream version 0.006.
+  * Declare compliance with Debian Policy 4.1.5.
+  * Drop ancient alternative build dependency on Test::More.
+  * Bump debhelper compatibility level to 10.
+  * Add /me to Uploaders.
+
+ -- gregor herrmann <gregoa@debian.org>  Wed, 01 Aug 2018 16:56:27 +0200
+
+libtypes-path-tiny-perl (0.005-1) unstable; urgency=low
+
+  * Initial Release. (Closes: #726026)
+
+ -- Lars Dɪᴇᴄᴋᴏᴡ 迪拉斯 (CPAN/PAUSE) <daxim@cpan.org>  Mon, 7 Oct 2013 15:28:39 +0200
